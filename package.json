@@ -1,0 +1,25 @@
+{
+  "name": "twitter-clone-apollo-server",
+  "version": "1.0.0",
+  "description": "In this repo I have try to build a server using Node.js,Express and Apollo server library. I have also used GraphQL as the query language to create the API.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Darshit114/Twitter-Clone-Apollo-Server.git"
+  },
+  "keywords": [],
+  "author": "Darshit Shekhada",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Darshit114/Twitter-Clone-Apollo-Server/issues"
+  },
+  "homepage": "https://github.com/Darshit114/Twitter-Clone-Apollo-Server#readme",
+  "dependencies": {
+    "apollo-server-express": "^2.15.0",
+    "express": "^4.17.1",
+    "graphql": "^15.1.0"
+  }
+}
